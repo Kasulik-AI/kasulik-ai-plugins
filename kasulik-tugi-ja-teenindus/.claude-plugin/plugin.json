@@ -1,5 +1,5 @@
 {
-  "name": "kasulik-ai-operations-support",
+  "name": "kasulik-tugi-ja-teenindus",
   "description": "Operatsioonid ja kliendisuhtlus — protsesside dokumenteerimine, kliendisuhtlus, teadmistebaas ja protsesside optimeerimine. Skills: /klient, /protsess, /process-doc, /process-optimization, /kb-article, /draft-response. Part of the Kasulik AI SMB Skills Collection.",
-  "version": "2.0.0"
+  "version": "2.1.0"
 }

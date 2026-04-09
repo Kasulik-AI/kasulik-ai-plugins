@@ -1,6 +1,6 @@
 {
   "name": "kasulik-ai-plugins",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "owner": {
     "name": "Kasulik AI",
     "email": "kristo@kasulik.ai"
@@ -8,34 +8,34 @@
   "description": "AI plugins for small and medium businesses. 54 skills across tourism, marketing, sales, operations, strategy, and AI workflow coaching. All skills work as /slash-commands in Cowork. Built by Kasulik AI (kasulik.ai).",
   "plugins": [
     {
-      "name": "kasulik-ai-workflows",
-      "source": "./kasulik-ai-workflows",
+      "name": "kasulik-tööruum",
+      "source": "./kasulik-tööruum",
       "description": "9 skills: workspace setup, AI coaching, assistant creation, workflow recipes, weekly review, Excel analysis, and WordPress integration.",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
     {
-      "name": "kasulik-ai-turism",
-      "source": "./kasulik-ai-turism",
+      "name": "kasulik-turism",
+      "source": "./kasulik-turism",
       "description": "9 skills for tourism businesses — strategy, marketing, sales, guest experience, analytics, seasonal planning, reviews, and customer journey.",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
     {
-      "name": "kasulik-ai-marketing-sales",
-      "source": "./kasulik-ai-marketing-sales",
+      "name": "kasulik-turundus-ja-müük",
+      "source": "./kasulik-turundus-ja-müük",
       "description": "24 skills for copywriting, SEO, email sequences, pricing, outreach, competitive intel, brand voice, and marketing context.",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
     {
-      "name": "kasulik-ai-operations-support",
-      "source": "./kasulik-ai-operations-support",
+      "name": "kasulik-tugi-ja-teenindus",
+      "source": "./kasulik-tugi-ja-teenindus",
       "description": "6 skills for customer communication, process documentation, knowledge base articles, and process optimization.",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
     {
-      "name": "kasulik-ai-strategy-leadership",
-      "source": "./kasulik-ai-strategy-leadership",
+      "name": "kasulik-strateegia-ja-juhtimine",
+      "source": "./kasulik-strateegia-ja-juhtimine",
       "description": "6 skills for reports, strategic plans, competitive analysis, financial statements, stakeholder communications, and internal communications.",
-      "version": "2.0.0"
+      "version": "2.1.0"
     }
   ]
 }

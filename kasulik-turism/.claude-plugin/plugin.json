@@ -1,5 +1,5 @@
 {
-  "name": "kasulik-ai-turism",
+  "name": "kasulik-turism",
   "description": "Eesti turismiettevõtete AI tööriistakast — strateegia, turundus, müük, külastuskogemus, analüütika, hooajaplaneerimine ja arvustuste haldus. Skills: /turism, /hooaeg, /arvustus, /külastaja, /strateegia, /turundus-sisu, /müük-kliendid, /külastuskogemus, /analüütika. Part of the Kasulik AI SMB Skills Collection.",
-  "version": "2.0.0"
+  "version": "2.1.0"
 }
