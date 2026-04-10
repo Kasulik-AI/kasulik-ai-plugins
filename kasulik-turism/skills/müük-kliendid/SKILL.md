@@ -1,11 +1,6 @@
 ---
 name: müük-kliendid
-description: |
-  Turismiettevõtte müük ja kliendisuhted — müügipakkumised, kliendisegmendid, müügitunnel,
-  vastuväited, järeltegevused, e-kirjad, lojaalsus, kriisikommunikatsioon, arvustused.
-  Kasuta kui kasutaja mainib: müük, pakkumine, klient, broneering, vastuväide, järeltegevus,
-  e-kiri, lojaalsus, korduvkülastus, kaotatud klient, soovitus, müügikõne, kriis,
-  klienditeenindus, tagasiside, rahulolu, VIP, arvustus, Booking, TripAdvisor.
+description: "Turismiettevõtte müük ja kliendisuhted — müügipakkumised, kliendisegmendid, müügitunnel, vastuväited, järeltegevused, e-kirjad, lojaalsus, kriisikommunikatsioon, arvustused. Kasuta kui kasutaja mainib: müük, pakkumine, klient, broneering, vastuväide, järeltegevus, e-kiri, lojaalsus, korduvkülastus, kaotatud klient, soovitus, müügikõne, kriis, klienditeenindus, tagasiside, rahulolu, VIP, arvustus, Booking, TripAdvisor."
 ---
 
 # Turismiettevõtte Müük ja Kliendisuhted

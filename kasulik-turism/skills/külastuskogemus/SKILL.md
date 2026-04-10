@@ -1,11 +1,6 @@
 ---
 name: külastuskogemus
-description: |
-  Külastuskogemuse ja teenuste arendamine — klienditeekond, teenuste kirjeldused, paketid,
-  hooajateenused, külastuseelne info, juhendid, KKK, ligipääsetavus, tagasiside, stiimulid.
-  Kasuta kui kasutaja mainib: külastuskogemus, teenus, pakett, klienditeekond, check-in,
-  juhend, KKK, ligipääsetavus, tagasiside, küsimustik, külastuseelne, teenuse kirjeldus,
-  kogemusdisain, puutepunkt, touchpoint, teenusedisain.
+description: "Külastuskogemuse ja teenuste arendamine — klienditeekond, teenuste kirjeldused, paketid, hooajateenused, külastuseelne info, juhendid, KKK, ligipääsetavus, tagasiside, stiimulid. Kasuta kui kasutaja mainib: külastuskogemus, teenus, pakett, klienditeekond, check-in, juhend, KKK, ligipääsetavus, tagasiside, küsimustik, külastuseelne, teenuse kirjeldus, kogemusdisain, puutepunkt, touchpoint, teenusedisain."
 ---
 
 # Külastuskogemuse ja Teenuste Arendamine

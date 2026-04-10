@@ -1,11 +1,6 @@
 ---
 name: turundus-sisu
-description: |
-  Turismiettevõtte turundus ja sisuloome — sotsiaalmeedia, veebitekstid, SEO, reklaamid,
-  uudiskirjad, blogiartiklid, landing page'id, brändiloo, video skriptid, influencerid.
-  Kasuta kui kasutaja mainib: turundus, sisu, sotsiaalmeedia, blogi, uudiskiri, reklaam,
-  SEO, landing page, kampaania, brändi lugu, video, influencer, hashtag, turunduskalender,
-  sisuloome, Facebook, Instagram, TikTok, Google Ads, pressiteade.
+description: "Turismiettevõtte turundus ja sisuloome — sotsiaalmeedia, veebitekstid, SEO, reklaamid, uudiskirjad, blogiartiklid, landing page'id, brändiloo, video skriptid, influencerid. Kasuta kui kasutaja mainib: turundus, sisu, sotsiaalmeedia, blogi, uudiskiri, reklaam, SEO, landing page, kampaania, brändi lugu, video, influencer, hashtag, turunduskalender, sisuloome, Facebook, Instagram, TikTok, Google Ads, pressiteade."
 ---
 
 # Turismiettevõtte Turundus ja Sisuloome

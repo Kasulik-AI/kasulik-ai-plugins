@@ -1,12 +1,6 @@
 ---
 name: agendid
-description: |
-  Loo ettevõttele personaalne AI assistent — intervjuu ja automaatse skaneerimise kaudu
-  genereerib kihistatud töökeskkonna: Project Instructions + CLAUDE.md + memory/ kaust.
-  Ekspordib ka ChatGPT GPT ja Claude Projects formaatidesse.
-  Kasuta kui kasutaja mainib: AI assistent, agendid, agent, personaalne assistent,
-  ettevõtte AI, AI seadistamine, GPT loomine, Claude Projects, ärikontekst, ekspertrollid,
-  brändi hääl AI-le, AI treenimine, kohandatud AI.
+description: "Loo ettevõttele personaalne AI assistent — intervjuu ja automaatse skaneerimise kaudu genereerib kihistatud töökeskkonna: Project Instructions + CLAUDE.md + memory/ kaust. Ekspordib ka ChatGPT GPT ja Claude Projects formaatidesse. Kasuta kui kasutaja mainib: AI assistent, agendid, agent, personaalne assistent, ettevõtte AI, AI seadistamine, GPT loomine, Claude Projects, ärikontekst, ekspertrollid, brändi hääl AI-le, AI treenimine, kohandatud AI."
 ---
 
 # AI Assistendi Loomine ja Treenimine

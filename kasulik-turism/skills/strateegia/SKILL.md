@@ -1,10 +1,6 @@
 ---
 name: strateegia
-description: |
-  Turismiettevõtte strateegia ja positsioneerimine — unikaalne väärtuspakkumine,
-  konkurentsianalüüs, SWOT, hooajaplaneerimine, laienemisstrateegiad ja ärimudeli arendus.
-  Kasuta kui kasutaja mainib: strateegia, positsioneerimine, väärtuspakkumine, konkurents,
-  SWOT, turg, laienemine, partnerlus, ärimudel, sihtkoha eristamine, turismistrateegia.
+description: "Turismiettevõtte strateegia ja positsioneerimine — unikaalne väärtuspakkumine, konkurentsianalüüs, SWOT, hooajaplaneerimine, laienemisstrateegiad ja ärimudeli arendus. Kasuta kui kasutaja mainib: strateegia, positsioneerimine, väärtuspakkumine, konkurents, SWOT, turg, laienemine, partnerlus, ärimudel, sihtkoha eristamine, turismistrateegia."
 ---
 
 # Turismiettevõtte Strateegia ja Positsioneerimine

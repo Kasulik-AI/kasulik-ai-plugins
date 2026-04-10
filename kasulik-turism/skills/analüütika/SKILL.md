@@ -1,12 +1,6 @@
 ---
 name: analüütika
-description: |
-  Turismiettevõtte analüütika ja tulemuste optimeerimine — KPI-d, hinnastrateegiad,
-  kliendikäitumine, rahulolu, müügilehtri analüüs, kampaaniate mõõtmine, kanalite
-  efektiivsus, veebilehe analüütika, sotsiaalmeedia statistika, konkurentsiseire.
-  Kasuta kui kasutaja mainib: analüütika, KPI, mõõdik, raport, hinnastrateegia,
-  statistika, konversioon, ROI, kliendikäitumine, rahulolu, NPS, müügilehtri analüüs,
-  kampaania tulemus, kanali efektiivsus, veebilehe analüüs, konkurentsiseire.
+description: "Turismiettevõtte analüütika ja tulemuste optimeerimine — KPI-d, hinnastrateegiad, kliendikäitumine, rahulolu, müügilehtri analüüs, kampaaniate mõõtmine, kanalite efektiivsus, veebilehe analüütika, sotsiaalmeedia statistika, konkurentsiseire. Kasuta kui kasutaja mainib: analüütika, KPI, mõõdik, raport, hinnastrateegia, statistika, konversioon, ROI, kliendikäitumine, rahulolu, NPS, müügilehtri analüüs, kampaania tulemus, kanali efektiivsus, veebilehe analüüs, konkurentsiseire."
 ---
 
 # Turismiettevõtte Analüütika ja Tulemuste Optimeerimine
