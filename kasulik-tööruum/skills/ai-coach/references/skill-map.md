@@ -1,6 +1,6 @@
-# Kasulik AI Plugins — Skillide Kaart (v3.0)
+# Kasulik AI Plugins — Skillide Kaart (v3.1)
 
-Kõikide skillide viide 3 Kasulik AI pluginas. Kasuta seda, et soovitada kasutajale õiget skilli.
+Kõikide skillide viide 5 Kasulik AI pluginas. Kasuta seda, et soovitada kasutajale õiget skilli.
 
 ## Plugin 1: kasulik-tööruum (7 skilli)
 
@@ -16,7 +16,36 @@ Kõikide skillide viide 3 Kasulik AI pluginas. Kasuta seda, et soovitada kasutaj
 
 ---
 
-## Plugin 2: kasulik-turism (9 skilli)
+## Plugin 2: kasulik-turundus (3 skilli)
+
+| Skill | Milleks | Triggerid |
+|-------|---------|-----------|
+| /tekst | Turundus- ja müügitekstid — koduleht, reklaamid, blogipostitused | "tekst", "kopii", "koduleht", "reklaam" |
+| /meilid | Meilikampaaniad — tervitusjada, uudiskirjad, järeltegevused | "meilid", "e-post", "uudiskiri", "drip" |
+| /kontekst | Turunduskonteksti seadistamine — sihtrühm, bränd, positsioneerimine | "kontekst", "positsioneerimine", "sihtrühm", "bränd" |
+
+---
+
+## Plugin 3: kasulik-müük (2 skilli)
+
+| Skill | Milleks | Triggerid |
+|-------|---------|-----------|
+| /kõnekokkuvõte | Kõnede ja koosolekute töötlemine — tegevuspunktid, järelkiri | "kõne", "koosolek", "transkriptsioon", "call summary" |
+| /klient | Kliendisuhtlus — päringud, kaebused, KKK artiklid, arvustused | "klient", "vastus", "kaebus", "tagasiside" |
+
+---
+
+## Plugin 4: kasulik-strateegia (3 skilli)
+
+| Skill | Milleks | Triggerid |
+|-------|---------|-----------|
+| /plaan | Strateegilised plaanid — SWOT, konkurentsianalüüs, tegevuskava | "plaan", "strateegia", "SWOT", "tegevuskava" |
+| /aruanne | Aruanded — nädalaülevaade, finantsraport, juhatuse raport | "aruanne", "raport", "kokkuvõte", "KPI-d" |
+| /protsess | Äriprotsesside dokumenteerimine ja optimeerimine — SOP, RACI | "protsess", "SOP", "RACI", "kitsaskoht" |
+
+---
+
+## Plugin 5: kasulik-turism (9 skilli)
 
 | Skill | Milleks | Triggerid |
 |-------|---------|-----------|
@@ -29,21 +58,6 @@ Kõikide skillide viide 3 Kasulik AI pluginas. Kasuta seda, et soovitada kasutaj
 | /müük-kliendid | Müük ja kliendisuhted — pakkumised, lojaalsus, kriisikommunikatsioon | "müük", "pakkumine", "lojaalsus", "VIP" |
 | /strateegia | Positsioneerimine, SWOT, laienemisstrateegiad, ärimudel | "strateegia", "SWOT", "positsioneerimine", "konkurents" |
 | /turundus-sisu | Sotsiaalmeedia, SEO, reklaamid, blogiartiklid, influencerid | "turundus", "sotsiaalmeedia", "SEO", "Instagram" |
-
----
-
-## Plugin 3: kasulik-ettevõtlus (8 skilli)
-
-| Skill | Milleks | Triggerid |
-|-------|---------|-----------|
-| /tekst | Turundus- ja müügitekstid — koduleht, reklaamid, blogipostitused | "tekst", "kopii", "koduleht", "reklaam" |
-| /meilid | Meilikampaaniad — tervitusjada, uudiskirjad, järeltegevused | "meilid", "e-post", "uudiskiri", "drip" |
-| /kontekst | Turunduskonteksti seadistamine — sihtrühm, bränd, positsioneerimine | "kontekst", "positsioneerimine", "sihtrühm", "bränd" |
-| /kõnekokkuvõte | Kõnede ja koosolekute töötlemine — tegevuspunktid, järelkiri | "kõne", "koosolek", "transkriptsioon", "call summary" |
-| /klient | Kliendisuhtlus — päringud, kaebused, KKK artiklid, arvustused | "klient", "vastus", "kaebus", "tagasiside" |
-| /protsess | Äriprotsesside dokumenteerimine ja optimeerimine — SOP, RACI | "protsess", "SOP", "RACI", "kitsaskoht" |
-| /aruanne | Aruanded — nädalaülevaade, finantsraport, juhatuse raport | "aruanne", "raport", "kokkuvõte", "KPI-d" |
-| /plaan | Strateegilised plaanid — SWOT, konkurentsianalüüs, tegevuskava | "plaan", "strateegia", "SWOT", "tegevuskava" |
 
 ---
 

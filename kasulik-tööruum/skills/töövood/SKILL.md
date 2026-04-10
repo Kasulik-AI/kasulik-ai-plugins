@@ -34,8 +34,10 @@ Valmis samm-sammulised töövood levinumate ülesannete jaoks. Iga töövoog üh
 | Plugin | Skillid | Fookus |
 |--------|---------|--------|
 | **kasulik-tööruum** | /alusta, /agendid, /ai-coach, /töövood, /tabel, /wordpress, /ülevaade | AI workspace ja coaching |
+| **kasulik-turundus** | /tekst, /meilid, /kontekst | Turundus ja sisuloome |
+| **kasulik-müük** | /kõnekokkuvõte, /klient | Müük ja kliendisuhtlus |
+| **kasulik-strateegia** | /plaan, /aruanne, /protsess | Planeerimine ja juhtimine |
 | **kasulik-turism** | /turism, /arvustus, /hooaeg, /külastaja, /külastuskogemus, /analüütika, /müük-kliendid, /strateegia, /turundus-sisu | Turismile spetsialiseeritud |
-| **kasulik-ettevõtlus** | /tekst, /meilid, /kontekst, /kõnekokkuvõte, /klient, /protsess, /aruanne, /plaan | Igapäevane ettevõtlus |
 
 ## Kuidas kasutada
 

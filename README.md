@@ -1,6 +1,6 @@
 # Kasulik AI Plugins
 
-24 AI skills packaged into 3 plugins for small and medium businesses. Install them in [Claude](https://claude.ai) via Cowork or Claude Code.
+24 AI skills packaged into 5 plugins. Install them in [Claude](https://claude.ai) via Cowork or Claude Code.
 
 **Uus kasutaja?** Loe kõigepealt [KIIRSTART-JUHEND.md](KIIRSTART-JUHEND.md) ja [TURVALISUS-JUHEND.md](TURVALISUS-JUHEND.md).
 
@@ -9,8 +9,10 @@
 ```
 /plugin marketplace add kasulik-ai/plugins
 /plugin install kasulik-tööruum@kasulik-ai-plugins
+/plugin install kasulik-turundus@kasulik-ai-plugins
+/plugin install kasulik-müük@kasulik-ai-plugins
+/plugin install kasulik-strateegia@kasulik-ai-plugins
 /plugin install kasulik-turism@kasulik-ai-plugins
-/plugin install kasulik-ettevõtlus@kasulik-ai-plugins
 ```
 
 Then run `/alusta` to set up your workspace.
@@ -30,19 +32,31 @@ AI workspace setup, coaching, and productivity tools.
 | /tabel | Excel and CSV data analysis |
 | /wordpress | WordPress integration guide |
 
-### kasulik-ettevõtlus (8 skills)
-Daily business operations — marketing copy, email campaigns, client communication, processes, reports, and strategy.
+### kasulik-turundus (3 skills)
+Marketing content and campaigns.
 
 | Skill | What It Does |
 |-------|-------------|
 | /kontekst | Sets up marketing context (positioning, ICP, competitors, brand voice) |
 | /tekst | Marketing copy — website, ads, blog posts, social media |
 | /meilid | Email campaigns — welcome sequences, newsletters, follow-ups |
+
+### kasulik-müük (2 skills)
+Sales and client communication.
+
+| Skill | What It Does |
+|-------|-------------|
 | /kõnekokkuvõte | Call notes → action items, follow-up email, internal summary |
 | /klient | Client communication — inquiries, complaints, FAQ articles |
-| /protsess | Process documentation — SOP, RACI matrix, optimization |
-| /aruanne | Reports — weekly, monthly, board, team updates |
+
+### kasulik-strateegia (3 skills)
+Planning, reporting, and process management.
+
+| Skill | What It Does |
+|-------|-------------|
 | /plaan | Strategic plans — SWOT, competitive analysis, action plans |
+| /aruanne | Reports — weekly, monthly, board, team updates |
+| /protsess | Process documentation — SOP, RACI matrix, optimization |
 
 ### kasulik-turism (9 skills)
 Tourism-specific skills for hospitality and destination businesses.
@@ -61,7 +75,7 @@ Tourism-specific skills for hospitality and destination businesses.
 
 ## How It Works
 
-1. **Install all 3 plugins** (they work best together)
+1. **Install all 5 plugins** (they work best together)
 2. **Run `/alusta`** — detects your setup state and guides you
 3. **Run `/agendid`** to create a personalized AI assistant
 4. **Run `/kontekst`** to set your marketing context
@@ -78,14 +92,14 @@ Tourism-specific skills for hospitality and destination businesses.
 | `/ülevaade` | tööruum | Iganädalane AI kasutuse ülevaade |
 | `/tabel` | tööruum | Exceli ja CSV failide analüüs |
 | `/wordpress` | tööruum | WordPress MCP integreerimise juhend |
-| `/kontekst` | ettevõtlus | Turunduskonteksti seadistamine |
-| `/tekst` | ettevõtlus | Turunduskopii ja sisuloome |
-| `/meilid` | ettevõtlus | E-posti kampaaniad ja jadad |
-| `/kõnekokkuvõte` | ettevõtlus | Kõne kokkuvõte ja järeltegevused |
-| `/klient` | ettevõtlus | Kliendikommunikatsioon |
-| `/protsess` | ettevõtlus | Protsesside dokumenteerimine |
-| `/plaan` | ettevõtlus | Strateegilised plaanid |
-| `/aruanne` | ettevõtlus | Aruanded ja ülevaated |
+| `/kontekst` | turundus | Turunduskonteksti seadistamine |
+| `/tekst` | turundus | Turunduskopii ja sisuloome |
+| `/meilid` | turundus | E-posti kampaaniad ja jadad |
+| `/kõnekokkuvõte` | müük | Kõne kokkuvõte ja järeltegevused |
+| `/klient` | müük | Kliendikommunikatsioon |
+| `/plaan` | strateegia | Strateegilised plaanid |
+| `/aruanne` | strateegia | Aruanded ja ülevaated |
+| `/protsess` | strateegia | Protsesside dokumenteerimine |
 | `/turism` | turism | Turismiettevõtte AI abiline |
 | `/hooaeg` | turism | Hooajaplaneerimine |
 | `/arvustus` | turism | Arvustustele vastamine |
@@ -101,9 +115,9 @@ Tourism-specific skills for hospitality and destination businesses.
 - [KIIRSTART-JUHEND.md](KIIRSTART-JUHEND.md) — Pre-training setup guide (Estonian)
 - [TURVALISUS-JUHEND.md](TURVALISUS-JUHEND.md) — AI security and privacy cheat sheet (Estonian)
 
-## Architecture (v3.0)
+## Architecture (v3.1)
 
-v3.0 removed 31 English-language skills that duplicated Anthropic's official plugins (marketing, sales, operations, customer-support, etc.). The remaining 24 skills are Estonian-language entry points enriched with English framework content inside. This eliminates trigger collisions when users have both Kasulik and Anthropic plugins installed.
+v3.0 removed 31 English-language skills that duplicated Anthropic's official plugins. v3.1 split the monolithic "ettevõtlus" plugin into three focused plugins (turundus, müük, strateegia) for clearer conceptual grouping. All 24 remaining skills are Estonian-language entry points enriched with English framework content.
 
 ## Sources
 
