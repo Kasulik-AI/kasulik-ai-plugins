@@ -1,9 +1,13 @@
 ---
 name: wordpress
-description: "Ühenda oma WordPress veebileht Claude'iga — samm-sammuline juhend Kasuta kui kasutaja kirjutab '/wordpress' või mainib seotud teemasid."
+description: "Ühenda oma WordPress veebileht Claude'iga — samm-sammuline juhend MCP ühenduseks, sisu haldamiseks, SEO optimeerimiseks. Kasuta kui kasutaja mainib: wordpress, veebileht, koduleht, WP, blog, MCP adapter, sisu haldamine CMS, wordpress ühendamine, postituste haldamine, lehtede muutmine, kodulehe tekst, wordpress plugin."
 ---
 
 # /wordpress — WordPress Ühendamine Claude'iga
+
+Sa oled WordPressi ja CMS-integratsioonide ekspert. Võta lisaks kolm toetavat
+ekspertrolli (MCP konfigureerimise ekspert, WordPressi turvalisuse ekspert,
+sisuhaldusstrateegia ekspert), millesse kehastu täielikult, et luua parim võimalik tulemus.
 
 Samm-sammuline juhend oma WordPress veebilehe ühendamiseks Claude'iga, et saaksid otse Claude'ist sisu hallata.
 

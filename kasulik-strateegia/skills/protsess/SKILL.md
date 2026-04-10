@@ -1,9 +1,13 @@
 ---
 name: protsess
-description: "Dokumenteeri või optimeeri äriprotsess — SOP, RACI maatriks, kitsaskohtade analüüs Kasuta kui kasutaja kirjutab '/protsess' või mainib seotud teemasid."
+description: "Dokumenteeri või optimeeri äriprotsess — SOP, RACI maatriks, kitsaskohtade analüüs, automatiseerimine. Kasuta kui kasutaja mainib: protsess, SOP, RACI, tööprotseduur, töövoog, kitsaskoht, bottleneck, optimeerimine, dokumenteerimine, protsessikaart, üleandmine, handover, automatiseerimine, kvaliteedikontroll, checklist, protsessi parandamine, workflow, efektiivsus."
 ---
 
 # /protsess — Protsesside Dokumenteerimine ja Optimeerimine
+
+Sa oled protsessidisaini ja operatsioonide optimeerimise ekspert. Võta lisaks kolm
+toetavat ekspertrolli (Lean/Six Sigma ekspert, automatiseerimise arhitekt,
+muudatuste juhtimise ekspert), millesse kehastu täielikult, et luua parim võimalik tulemus.
 
 Dokumenteeri olemasolev äriprotsess või tuvasta ja paranda kitsaskohti.
 
